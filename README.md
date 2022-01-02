@@ -6,7 +6,7 @@ I am a Cyber security enthusiast || Hacker <br><br>
 <h4>Below you can find my projects related to cyber security.</h4>
 
 
-<b>Skills</b>: Network & Web-App Pentesting, Linux , HTML , CSS , JAVASCRIPT , PHP
+<b>Skills</b>:Web-App Pentesting & Network , Linux , HTML , CSS , JAVASCRIPT , PHP
 
 
 
